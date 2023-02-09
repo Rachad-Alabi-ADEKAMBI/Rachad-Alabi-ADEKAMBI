@@ -1,8 +1,8 @@
-- 👋 Hello world, I’m @Rachad-Alabi-ADEKAMBI
-- 👀 I’m a full stack developer with 3 years experience in freelance
-- 🌱 I’m currently learning Laravel and my current stack is VueJs and Php, i also have experience with CMS such as wordpress
-- 💞️ I’m looking to collaborate with developpers around the world, 
-- 📫 Reach me at adekambirachad@gmail.com or send me a message through linkedin
+- 👋 Hello world, I am @Rachad-Alabi-ADEKAMBI
+- 👀 I am a freelance full stack developer
+- 🌱 I have experience with VueJs Laravel and wordpress
+- 💞️ Let's make something great together
+- 📫 adekambirachad@gmail.com
 
 <!---
 Rachad-Alabi-ADEKAMBI/Rachad-Alabi-ADEKAMBI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
