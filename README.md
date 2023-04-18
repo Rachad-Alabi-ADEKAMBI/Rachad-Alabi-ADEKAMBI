@@ -1,11 +1,11 @@
 
-  [![MasterHead](https://adekambirachad.com/public/images/ban2.jpg)<br>(https://adekambirachad.com)
+  ![MasterHead](https://adekambirachad.com/public/images/ban2.jpg)
   
 <h1 align="center">Hi 👋, I'm @Rachad-Alabi-ADEKAMBI,</h1>
-<h3 align="center">a passionate full stack developer from Benin republic</h3>
+<h3 align="center"> I am a self-taught full-stack developer and freelance wizard. I've got a black belt in PHP (Laravel), JavaScript (Vue.js), and Python, and I'm always open to learning new things. When I'm not creating beautiful websites and web apps, you can usually find me pwning noobs on Call of Duty Mobile or tinkering with new coding languages (it's a tough call). I'm a firm believer in the power of self-education and the magic of the internet, and I'm always up for a new coding challenge. So, if you've got a project that needs a little bit of web wizardry, drop me a line, and let's make some digital magic happen together!</h3>
 
 <div>
-  <p align="center" > <img src="https://adekambirachad.com/public/images/animated.gif" alt="rachad-alabi-adekambi" style="width: 150px; border-radius: 150px"/> </p>
+  <p align="center" > <img src="https://adekambirachad.com/public/images/animated.gif" alt="rachad-alabi-adekambi" style="width: 200px; border-radius: 150px"/> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rachad-alabi-adekambi" alt="rachad-alabi-adekambi" /></a> </p>
 <div/>
