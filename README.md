@@ -26,7 +26,7 @@
 
 - 📄 Know about my experiences [https://adekambirachad.com/cv.php](https://adekambirachad.com/cv.php)
 
-- ⚡ Here a free developer joke **You should start questioning your life choices if you have to have the second page of Google. I mean, who even goes to the second page of Google? It's like going to a party and choosing to hang out with the plants in the corner instead of mingling with the cool kids. Don't be a wallflower of the internet, my friend. Embrace your inner Google ninja and find what you're looking for on the first page like a boss!**
+- ⚡ Here a free developer joke **You should start questioning your life choices if you have to open the second page of Google. I mean, who even goes to the second page of Google? It's like going to a party and choosing to hang out with the plants in the corner instead of mingling with the cool kids. Don't be a wallflower of the internet, my friend. Embrace your inner Google ninja and find what you're looking for on the first page like a boss!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
