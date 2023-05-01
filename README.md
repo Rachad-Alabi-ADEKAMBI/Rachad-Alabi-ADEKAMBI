@@ -1,8 +1,8 @@
 
   ![MasterHead](https://adekambirachad.com/public/images/ban2.jpg)
   
-<h1 align="center">Hi 👋, I'm @Rachad-Alabi-ADEKAMBI,</h1>
-<h3 align="center"> I am a self-taught full-stack developer and freelance wizard. I've got a black belt in PHP (Laravel), Javascript (Vue.js), and Python, and I'm always open to learning new things. When I'm not creating beautiful websites and web apps, you can usually find me pwning noobs on Call of Duty Mobile or tinkering with new coding languages (it's a tough call). I'm a firm believer in the power of self-education and the magic of the internet, and I'm always up for a new coding challenge. So, if you've got a project that needs a little bit of web wizardry, drop me a line, and let's make some digital magic happen together!</h3>
+<h1 align="center">Hello world ! 👋, I'm @Rachad-Alabi-ADEKAMBI,</h1>
+<h3 align="center"> I am a full-stack developer and freelance wizard. I've got a black belt in PHP (Laravel), Javascript (Vue.js), and Python, and I'm always open to learning new things. When I'm not creating beautiful websites and web apps, you can usually find me pwning noobs on Call of Duty Mobile or tinkering with new coding languages (it's a tough call). I'm a firm believer in the power of self-education and the magic of the internet, and I'm always up for a new coding challenge. So, if you've got a project that needs a little bit of web wizardry, drop me a line, and let's make some digital magic happen together!</h3>
 
 <div>
   <p align="center" > <img src="https://adekambirachad.com/public/images/animated.gif" alt="rachad-alabi-adekambi" style="width: 200px; border-radius: 150px"/> </p>
@@ -18,11 +18,11 @@
 
 - 👨‍💻 All of my projects are available at [https://adekambirachad.com](https://adekambirachad.com)
 
-- 📝 I regularly write articles on [https://quora.com/](https://quora.com/)
+- 📝 I write articles sometimes on [https://quora.com/](https://quora.com/)
 
-- 💬 Ask me about **PHP, Javascript, VueJs and Laravel** but more PHP, i really like PHP...
+- 💬 Ask me about **PHP, Javascript, VueJs and Laravel** but most PHP, PHP is bae...
 
-- 📫You can reach ach me at **adekambirachad@gmail.com**,
+- 📫You can reach me at **adekambirachad@gmail.com**,
 
 - 📄 Know about my experiences [https://adekambirachad.com](https://adekambirachad.com)
 
