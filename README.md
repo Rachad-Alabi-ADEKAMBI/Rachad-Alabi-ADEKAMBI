@@ -9,9 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rachad-alabi-adekambi" alt="rachad-alabi-adekambi" /></a> </p>
 <div/>
-
-- 🔭 I’m currently working on [https://luuluilui.fr](https://luuluilui.fr/), a marketplace for cars dealers
-
+  
 - 🌱 I’m currently learning **AWS**, it is quite intresting...
 
 - 👯 I’m looking to collaborate on **any interesting project, (i am a curious person)**
