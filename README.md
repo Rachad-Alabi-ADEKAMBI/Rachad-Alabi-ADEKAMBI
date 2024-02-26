@@ -2,12 +2,12 @@
   ![MasterHead](https://adekambirachad.com/public/images/ban2.jpg)
   
 <h1 align="center">Hello world ! 👋</h1>
-<h3 align="center">Full-stack developer and freelance wizard</h3>
+<h3 align="left">I am a full-stack developer and a freelance wizard</h3>
 
 <div>
   <p align="center" > <img src="https://adekambirachad.com/public/images/animated.gif" alt="rachad-alabi-adekambi" style="width: 200px; border-radius: 150px"/> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rachad-alabi-adekambi" alt="rachad-alabi-adekambi" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rachad-alabi-adekambi" alt="rachad-alabi-adekambi" /></a> </p>
 <div/>
   
 
