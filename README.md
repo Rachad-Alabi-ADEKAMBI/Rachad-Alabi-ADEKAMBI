@@ -2,7 +2,7 @@
   ![MasterHead](https://adekambirachad.com/public/images/ban2.jpg)
   
 <h1 align="left">Hello world ! </h1>
-<h3 align="left">Who am i ?</h3>
+<h3 align="left">About me:</h3>
   
 - 👋 Full-stack developer and freelance wizard
 
@@ -35,3 +35,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rachad-alabi-adekambi&" alt="rachad-alabi-adekambi" />
 </p>
+
+<br>
+<h3 align="left">More github stuffs: </h3>
