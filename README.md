@@ -1,14 +1,16 @@
 
   ![MasterHead](https://adekambirachad.com/public/images/ban2.jpg)
   
-<h1 align="left">Hello world ! 👋</h1>
-<h3 align="left">I am a full-stack developer and a freelance wizard</h3>
+<h1 align="left">Hello world ! </h1>
+<h3 align="left">Who am i ?</h3>
   
+- 👋 Full-stack developer and freelance wizard
 
 - 👨‍💻 Available for new projects
   
-- 💬 ALet's talk about tech and aliens ;)
-- 
+- 💬 Let's talk about tech and aliens
+
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/codeur_creatif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/codeur_creatif" height="30" width="40" /></a>
