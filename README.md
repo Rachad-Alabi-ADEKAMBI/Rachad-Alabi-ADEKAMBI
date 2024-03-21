@@ -35,6 +35,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rachad-alabi-adekambi&" alt="rachad-alabi-adekambi" />
 </p>
-
-<br>
-<h3 align="left">More github stuffs: </h3>
